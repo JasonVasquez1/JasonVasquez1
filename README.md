@@ -1,10 +1,15 @@
-<h1>Hi, I'm Jason!
+<h1>Hi, I'm Jason! 👋</h1>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
+<ul>
+  <li>
+    <b>Azure Sentinel Honeypot (SIEM / SOC Lab)</b><br>
+    <a href="https://github.com/JasonVasquez1/Azure-Sentinel-Honeypot-Lab">
+      View Project
+    </a>
+  </li>
+</ul>
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
