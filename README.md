@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jason! 👋</h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cyber Security Projects:</h2>
 
 <ul>
   <li>
