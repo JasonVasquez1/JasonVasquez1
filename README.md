@@ -6,7 +6,7 @@
   <li>
     <b>Azure Sentinel Honeypot (SIEM / SOC Lab)</b><br>
     <a href="https://github.com/JasonVasquez1/Azure-Sentinel-Honeypot-Lab">
-      View Project
+      Azure Sentinel SOC Lab – Honeypot & Attack Detection
     </a>
   </li>
 </ul>
